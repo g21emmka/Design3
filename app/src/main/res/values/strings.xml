@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">Design3</string>
+    <string name="app_name">JobbaPå AB</string>
+
+    <string name="text_aboutpage">
+        \n JobbaPÅ Ab är en app som förmedlar små jobb åt
+        \n små och medelstora företag.
+        \n Appens mål är att vara till hjälp för människor som
+        \n letar efter ett extrajobb.
+        \n Kanske är du student och behöver ett jobb vid sidan av dina
+        \n studier, eller behöver du
+        \n en liten extra inkomstkälla. Oavsett anledning så kan
+        \n du finna en massa olika extrajobb
+        \n och småjobb inom diverse olika branscher.\n
+    </string>
+
+
+    <string name="text_contact">
+        \n Vid eventuella frågor eller liknande kontakta oss!\n
+        \n Telefon tider: Mån-fre kl. 08.00-12.00
+        \n Telefon nummer: 08-599 99 99
+        \n Adress: VillaVillekullaVägen 365
+        \n 500 00 Stockholm
+
+    </string>
 </resources>
